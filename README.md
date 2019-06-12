@@ -7,7 +7,7 @@
   - [Project Overview](#Project-Overview)
   - [Why this Project?](#Why-this-Project)
   - [What will I learn?](#What-will-I-learn)
-  - [How will this help my career?](# How-will-this-help-my-career)
+  - [How will this help my career?](#How-will-this-help-my-career)
   - [Development Strategy](#Development-Strategy)
   - [Link to download the Project](#Link-to-download-the-Project)
   - [Process to run the project](#Process-to-run-the-project)
@@ -87,7 +87,7 @@ Additionally, note that:
 
 When you're all finished, write a `README` file detailing all steps required to successfully run the application. If you have added additional tests, provide documentation for what these future features are and what the tests are checking for.
 
-##Link to download the Project
+## Link to download the Project
    The github repository to download the scratch project is https://github.com/udacity/frontend-nanodegree-feedreader.git.
 
 ## Process to run the project
