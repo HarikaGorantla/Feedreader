@@ -1,7 +1,9 @@
-#feedreader project
+# feedreader project
+
   **Feedreader** project is useful in writing effective tests.
 
-##Table of Contents
+## Table of Contents
+
   -[Project Overview](#Project-Overview)
   -[Why this Project?](#Why-this-Project?)
   -[What will I learn?](#What-will-I-learn?)
