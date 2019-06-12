@@ -5,9 +5,9 @@
 ## Table of Contents
 
   - [Project Overview](#Project-Overview)
-  - [Why this Project?](#Why-this-Project?)
-  - [What will I learn?](#What-will-I-learn?)
-  - [ How will this help my career?](# How-will-this-help-my-career?)
+  - [Why this Project?](#Why-this-Project)
+  - [What will I learn?](#What-will-I-learn)
+  - [How will this help my career?](# How-will-this-help-my-career)
   - [Development Strategy](#Development-Strategy)
   - [Link to download the Project](#Link-to-download-the-Project)
   - [Process to run the project](#Process-to-run-the-project)
