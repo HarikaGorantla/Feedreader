@@ -1,19 +1,19 @@
-# feedreader project
+# Feedreader project
 
   **Feedreader** project is useful in writing effective tests.
 
 ## Table of Contents
 
-  -[Project Overview](#Project-Overview)
-  -[Why this Project?](#Why-this-Project?)
-  -[What will I learn?](#What-will-I-learn?)
-  -[ How will this help my career?](# How-will-this-help-my-career?)
-  -[Development Strategy](#Development-Strategy)
-  -[Link to download the Project](#Link-to-download-the-Project)
-  -[Process to run the project](#Process-to-run-the-project)
-  -[Steps to complete the Project](#Steps-to-complete-the-Project)
-  -[Project experience](#Project-experience)
-  -[Contributing](#Contributing)
+  - [Project Overview](#Project-Overview)
+  - [Why this Project?](#Why-this-Project?)
+  - [What will I learn?](#What-will-I-learn?)
+  - [ How will this help my career?](# How-will-this-help-my-career?)
+  - [Development Strategy](#Development-Strategy)
+  - [Link to download the Project](#Link-to-download-the-Project)
+  - [Process to run the project](#Process-to-run-the-project)
+  - [Steps to complete the Project](#Steps-to-complete-the-Project)
+  - [Project experience](#Project-experience)
+  - [Contributing](#Contributing)
 
 
 # Project Overview
